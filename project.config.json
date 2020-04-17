@@ -28,7 +28,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.8.3",
 	"appid": "wxc9adb73c6f1ff1df",
-	"projectname": "meow",
+	"projectname": "halo-miniprogram",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
