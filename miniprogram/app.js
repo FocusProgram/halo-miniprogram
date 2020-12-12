@@ -93,7 +93,7 @@ App({
         skin: null,
         roleFlag: false,
         url: "https://www.focusprogram.top",
-        BlogName: "技术精选",
+        BlogName: "Mr.Kong Blog",
         token: "6c96ff5b-e2bc-4a2b-9568-681a5aebe40c",
         highlightStyle: "dracula", //代码高亮样式，可用值default,darcula,dracula,tomorrow
         adminOpenid: "okGRI49LoKkI8OnliqKxkCQwFrYA",

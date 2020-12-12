@@ -4066,6 +4066,8 @@ scroll-view.cu-steps .cu-item {
 .home-img{
     padding: 24rpx;
     background-repeat: no-repeat;
-    background-size: contain;
-		background-image: url('http://wx.qlogo.cn/mmopen/f1oC9nWPq22vbCshDb9A10tMWuBHoz2a0GDOKGiaatb3CicE5ZwUd5CJNrV15G8kWFVUzfjJIn1t4Bgfubr82hYU7Jiagrz9065/64');
+		background-size: contain;
+		/* background-image: url('../image/cat.png'); */
+		background-image: url('https://image.focusprogram.top/mr.kong.jpg');
+		/* background-image: url('http://wx.qlogo.cn/mmopen/f1oC9nWPq22vbCshDb9A10tMWuBHoz2a0GDOKGiaatb3CicE5ZwUd5CJNrV15G8kWFVUzfjJIn1t4Bgfubr82hYU7Jiagrz9065/64'); */
 }
